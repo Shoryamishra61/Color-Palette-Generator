@@ -13,6 +13,7 @@ import MoodPalettes from './components/MoodPalettes';
 import { generatePalette, getContrastColor, isValidHexColor, getColorName } from './utils/colorUtils';
 import { useTheme } from './context/ThemeContext';
 
+
 const AppContainer = styled.div`
   min-height: 100vh;
   width: 100%;
