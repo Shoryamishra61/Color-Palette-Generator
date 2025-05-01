@@ -46,7 +46,3 @@ npm run dev
 - react-colorful (color picker component)
 - react-toastify (notifications)
 - CSS3
-
-## License
-
-MIT
