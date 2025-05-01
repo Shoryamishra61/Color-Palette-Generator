@@ -2,6 +2,8 @@
 
 A React-based web application that generates beautiful color palettes based on user-selected base colors. The application allows users to create harmonious color schemes and easily copy color values to their clipboard.
 
+Visit my website : https://color-palette-generator-amber.vercel.app/
+
 ## Features
 
 - Multiple color pickers for base colors
